@@ -1,0 +1,10 @@
+id,name,category,quantity,price
+1,iPhone,Electronics,10,899.99
+2,MacBook,Electronics,5,1299.99
+3,iPad,Electronics,15,499.99
+4,Samsung TV,Electronics,8,799.99
+5,LG TV,Electronics,10,699.99
+6,Nike Shoes,Clothing,30,99.99
+7,Adidas Shoes,Clothing,25,89.99
+8,Sony Headphones,Electronics,12,149.99
+9,Beats Headphones,Electronics,20,199.99

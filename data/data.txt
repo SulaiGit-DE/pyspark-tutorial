@@ -1,0 +1,6 @@
+This is a sample text file for Spark RDD operations.
+Spark RDD is a fundamental data structure in Spark.
+It is an immutable distributed collection of objects.
+We are using SparkContext to read this text file.
+This example demonstrates word counting with RDDs.
+The distributed nature of Spark allows for parallel processing.
